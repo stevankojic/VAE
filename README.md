@@ -1,8 +1,7 @@
 # VAE
 Variational Autoencoder
 
-Download images from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-Extract to folder 'img_align_celeba'.
+Download images from http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html and extract to folder 'img_align_celeba'.
 
 In vae_celeba.py:
 
